@@ -2,13 +2,13 @@
   "devDependencies": {
   },
   "name": "coinia-contract",
-  "version": "1.0.0",
+  "version": "1.0.0-remastered",
   "description": "The token smart contract for Coinia Vy",
   "main": "index.js",
   "dependencies": {
   },
   "scripts": {
-    "compile": "solcjs"
+    "compile": "truffle compile"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "solidity"
   ],
   "author": "Solarius Solutions / Ville Sundell",
-  "license": "GPL-2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/villesundell/coinia-contract/issues"
   },
