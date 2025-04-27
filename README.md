@@ -1,12 +1,12 @@
 # The remastered token smart contract for Coinia Vy
 
-**Coinia Vy** is arguably the first legal experiment to get a tokenized smart contract–based organization officially registered (in Finland, Business ID [2755797‑6](https://opencorporates.com/companies/fi/2755797-6)) without any traditional paperwork for the organization itself (such as bylaws). You can read more about the experiment in my blog post, “[Creating a ‘chainterprise’ in Finland on Ethereum](https://www.linkedin.com/pulse/creating-chainterprise-finland-ethereum-ville-sundell/)” (2016).
+**Coinia Vy** is arguably the first legal experiment to get a tokenized smart contract–based organization officially registered (in Finland, Business ID [2755797-6](https://opencorporates.com/companies/fi/2755797-6)) without any traditional paperwork for the organization itself (such as bylaws). You can read more about the experiment in my blog post, “[Creating a ‘chainterprise’ in Finland on Ethereum](https://www.linkedin.com/pulse/creating-chainterprise-finland-ethereum-ville-sundell/)” (2016).
 
 ## Remastered version (2025)
 
 This release is a remastered version of the original 2016 code. It adheres to modern Solidity coding conventions, is a [Truffle](https://github.com/trufflesuite/truffle) project, and is released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
-This codebase results in the correct (Mainnet‑deployed) [bytecode](./build/contracts/CoiniaVy.json) when built with:
+This codebase results in the correct (Mainnet-deployed) [bytecode](./build/contracts/CoiniaVy.json) when built with:
 
 * Truffle v5.11.5 (core 5.11.5)
 * Ganache v7.9.1
